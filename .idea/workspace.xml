@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4edb92cc-8939-4542-a86b-c324fda1b126" name="Default Changelist" comment="first step">
+      <change afterPath="$PROJECT_DIR$/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/blocks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/sideBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Andrii Udot &lt;udot.dron@gmail.com&gt;" />
+        <option value="udot-a" />
+        <option value="Andrii Udot" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1gSPiC6zr0CEcLgJZSObllCC27D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="bundle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dist/bundle.js" working-dir="$PROJECT_DIR$/dist">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.bundle.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4edb92cc-8939-4542-a86b-c324fda1b126" name="Default Changelist" comment="" />
+      <created>1598105144816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598105144816</updated>
+      <workItem from="1598105145869" duration="5813000" />
+      <workItem from="1598112584995" duration="107000" />
+      <workItem from="1598185478658" duration="10524000" />
+      <workItem from="1598247021148" duration="6663000" />
+    </task>
+    <task id="LOCAL-00001" summary="first step">
+      <created>1598112395616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598112395616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first step" />
+    <option name="LAST_COMMIT_MESSAGE" value="first step" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1598110407894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598110407894" />
+    <state x="496" y="91" key="FileChooserDialogImpl" timestamp="1598110372891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="91" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598110372891" />
+    <state width="1509" height="196" key="GridCell.Tab.0.bottom" timestamp="1598112546735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598112546735" />
+    <state width="1509" height="196" key="GridCell.Tab.0.center" timestamp="1598112546735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598112546735" />
+    <state width="1509" height="196" key="GridCell.Tab.0.left" timestamp="1598112546735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598112546735" />
+    <state width="1509" height="196" key="GridCell.Tab.0.right" timestamp="1598112546735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598112546735" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1598112237324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598112237324" />
+    <state x="261" y="80" key="Vcs.Push.Dialog.v2" timestamp="1598112634515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="80" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598112634515" />
+    <state x="549" y="82" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598112312438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="82" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1598112312438" />
+    <state x="546" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598110461910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="546" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1598110461910" />
+    <state x="523" y="298" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598112623583">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="298" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1598112623583" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1598110344291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1598110344291" />
+  </component>
+</project>
